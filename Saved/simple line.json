@@ -1,0 +1,23 @@
+{
+  "Noise": {
+    "pos_y": 3063.973388671875,
+    "pos_x": 1594.18505859375,
+    "seed": 0,
+    "perlinScale": 6.1705002784729,
+    "randomseed": 33066000,
+    "NoiseFalloff": 0.29666668176651,
+    "NoiseLod": 4
+  },
+  "Style": {
+    "backgroundColor": -16777216,
+    "lineColor": -1,
+    "lineWidth": 0
+  },
+  "Main": {
+    "moveSpeed": 0.23333333432674408,
+    "curvitude": 1.399999976158142,
+    "NbLines": 700,
+    "NbSteps": 41,
+    "len_step": 10.666666984558105
+  }
+}

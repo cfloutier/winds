@@ -1,0 +1,20 @@
+{
+  "Noise": {
+    "seed": 111862000,
+    "perlinScale": 2.374300003051758,
+    "randomseed": 33066000,
+    "NoiseFalloff": 0.8600000143051147,
+    "NoiseLod": 6
+  },
+  "Style": {
+    "backgroundColor": -16118253,
+    "lineColor": -1,
+    "lineWidth": 0
+  },
+  "Main": {
+    "curvitude": 0.5333333611488342,
+    "NbLines": 2100,
+    "NbSteps": 54,
+    "len_step": 6.6666669845581055
+  }
+}
