@@ -1,10 +1,14 @@
 {
   "Noise": {
+    "pos_y": 3067.3125,
+    "moveSpeed": 1.2133333683013916,
+    "pos_x": 1581.46484375,
     "seed": 217487000,
-    "perlinScale": 2.141200065612793,
+    "perlinScale": 0.03310000151395798,
     "randomseed": 121220000,
     "NoiseFalloff": 0.07666666805744171,
-    "NoiseLod": 3
+    "NoiseLod": 3,
+    "scaleMul": 40
   },
   "Style": {
     "backgroundColor": -16118253,
@@ -12,9 +16,9 @@
     "lineWidth": 0.30000001192092896
   },
   "Main": {
-    "curvitude": 1.9300000667572021,
-    "NbLines": 3567,
-    "NbSteps": 434,
-    "len_step": 13.333333969116211
+    "curvitude": 1.6666667461395264,
+    "NbLines": 3366,
+    "NbSteps": 57,
+    "len_step": 12
   }
 }
